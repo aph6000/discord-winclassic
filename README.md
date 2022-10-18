@@ -1,8 +1,5 @@
 # discord-winclassic
-A theme i made for Discord using stuff from 98.css
-This theme works better with light mode enabled however dark mode support is being worked on
-
-You can change the colors of elements by changing some of the variables at the top but documentation for this will be added later
+A theme I made for Discord using stuff from 98.css.
 
 import: @import url('https://aph6000.github.io/discord-winclassic/Classic.theme.css');
 
