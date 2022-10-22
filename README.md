@@ -1,9 +1,9 @@
 # discord-winclassic
-A theme I made for Discord using stuff from 98.css.
+a Discord theme that mimics the look and feel of earlier Windows versions.
 
 import: @import url('https://aph6000.github.io/discord-winclassic/Classic.theme.css');
 
-98.css: https://jdan.github.io/98.css/
+based off of 98.css: https://jdan.github.io/98.css/
 
 <p align="left"><img src="sc/toolbar.PNG"></p>
 <p align="left"><img src="sc/other.PNG"></p>
