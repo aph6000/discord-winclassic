@@ -8,3 +8,6 @@ based off of 98.css: https://jdan.github.io/98.css/
 <p align="left"><img src="sc/toolbar.PNG"></p>
 <p align="left"><img src="sc/other.PNG"></p>
 <p align="left"><img src="sc/channels.PNG"></p>
+
+
+i know the font is broken on canary i am looking into that
