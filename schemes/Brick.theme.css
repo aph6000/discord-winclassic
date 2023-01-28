@@ -1,0 +1,58 @@
+/**
+ * @name Windows Classic Standard Theme 
+ * @version 1.0.0
+ * @description Uses the Windows Standard color scheme from Windows 2000 instead of the default Windows 98 color scheme
+ * @author aph6000
+ * 
+ * @website https://aph6002.neocities.org
+ * @source 
+*/
+
+/* 98.css variables */
+    
+:root {
+  /* Color */
+  --ButtonFace: rgb(194, 191, 165);
+  --ButtonHilight: rgb(225, 224, 210);
+  --ButtonLight: rgb(194, 191, 165);
+  --ButtonShadow: rgb(141, 137, 97);
+  --ButtonDkShadow: rgb(0, 0, 0);
+  --ActiveTitle: rgb(128, 0, 0);
+  --GradientActiveTitle: rgb(176, 116, 64);
+  --InactiveTitle: rgb(141, 137, 97);
+  --GradientInactiveTitle: rgb(200, 184, 112);
+  --Link: rgb(0, 0, 255);
+  --HilightText: rgb(255, 255, 255);
+  --ButtonText: rgb(0, 0, 0);
+  --GrayText: rgb(128, 128, 128);
+  --Window: rgb(255, 255, 255);
+  --WindowText: rgb(0, 0, 0);
+  --Hilight:  rgb(141, 137, 97);
+  --InfoWindow: rgb(225, 224, 210);
+  --InfoText: rgb(128, 0, 0);
+  --3DObjectsText: rgb(0, 0, 0);
+  --InactiveTitleText: rgb(225, 224, 210);
+  --TitleText: rgb(225, 224, 210);
+
+        --font-primary: var(--mainfont),"Microsoft Sans Serif",Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        --font-display: var(--mainfont),"Microsoft Sans Serif",Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* Font settings */
+:root {
+ --CaptionFont: "Tahoma";
+ --SmCaptionFont: "Pixelated MS Sans Serif";
+ --CaptionFont-text-size: 9pt;
+ --mainfont: "Pixelated MS Sans Serif";
+ --mainfontsize: 11px;
+ --mainfontcolor: var(--ButtonText);
+ --mainfontselectedcolor: var(--HilightText);
+ --InfoWindow-font: "Pixelated MS Sans Serif";
+ --InfoWindow-size: 11px;
+}
+
+/* Size settings */
+:root {
+  --CaptionHeight: 18px;
+  --MenuHeight: 18px;
+}

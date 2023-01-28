@@ -1,0 +1,58 @@
+/**
+ * @name Windows Classic Standard Theme 
+ * @version 1.0.0
+ * @description Uses the Windows Standard color scheme from Windows 2000 instead of the default Windows 98 color scheme
+ * @author aph6000
+ * 
+ * @website https://aph6002.neocities.org
+ * @source 
+*/
+
+/* 98.css variables */
+    
+:root {
+  /* Color */
+  --ButtonFace: rgb(212, 208, 200);
+  --ButtonHilight: rgb(255, 255, 255);
+  --ButtonLight: rgb(212, 208, 200);
+  --ButtonShadow: rgb(128, 128, 128);
+  --ButtonDkShadow: rgb(64, 64, 64);
+  --ActiveTitle: rgb(10, 36, 106);
+  --GradientActiveTitle: rgb(166, 202, 240);
+  --InactiveTitle: rgb(128, 128, 128);
+  --GradientInactiveTitle: rgb(192, 192, 192);
+  --Link: rgb(0, 0, 255);
+  --HilightText: rgb(255, 255, 255);
+  --ButtonText: rgb(0, 0, 0);
+  --GrayText: rgb(128, 128, 128);
+  --Window: rgb(255, 255, 255);
+  --WindowText: rgb(0, 0, 0);
+  --Hilight:  rgb(10, 36, 106);
+  --InfoWindow: rgb(255, 255, 225);
+  --InfoText: rgb(0, 0, 0);
+  --3DObjectsText: rgb(0, 0, 0);
+
+        --font-primary: var(--mainfont),"Microsoft Sans Serif",Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        --font-display: var(--mainfont),"Microsoft Sans Serif",Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* Font settings */
+:root {
+ --CaptionFont: "Tahoma";
+ --SmCaptionFont: "Tahoma";
+ --TitleText: #fff;
+ --InactiveTitleText: #c0c0c0;
+ --CaptionFont-text-size: 11px;
+ --mainfont: "Tahoma";
+ --mainfontsize: 11px;
+ --mainfontcolor: var(--ButtonText);
+ --mainfontselectedcolor: var(--HilightText);
+ --InfoWindow-font: "Tahoma";
+ --InfoWindow-size: 11px;
+}
+
+/* Size settings */
+:root {
+  --CaptionHeight: 18px;
+  --MenuHeight: 18px;
+}
