@@ -10,4 +10,4 @@ based off of 98.css: https://jdan.github.io/98.css/
 <p align="left"><img src="sc/channels.PNG"></p>
 
 
-i know the font is broken on canary i am looking into that
+Additional color schemes are provided in the "schemes" folder.
