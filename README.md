@@ -11,3 +11,5 @@ based off of 98.css: https://jdan.github.io/98.css/
 
 
 Additional color schemes are provided in the "schemes" folder.
+
+this will probably be replaced with winclassicII pretty soon but i might continue to update this
